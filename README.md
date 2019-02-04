@@ -1,8 +1,9 @@
 # Example 1 - Single Circuit Connection  
 
+## About
+
 StretchSense is a global supplier of soft sensors. These soft sensors are perfect for measuring the complex movements of people and soft objects in our environments. 
 
-## About
 ### Background
 The StretchSense Android API has been developed to demonstrate how to establish a connection between a StretchSense Fabric Evaluation circuit and a BLE enabled Android device. The platform was developed using android Studio 2.1.2 in Java with a gradle defaultConfig minSdkVersion 19 and a targetSdkVersion 22.
 This project contains example of showing connection with connection with 10 channel ble.
